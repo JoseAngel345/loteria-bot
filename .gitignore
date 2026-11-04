@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+loteria.db
+config.py
+.env
